@@ -1,2 +1,2 @@
 # katherinewonders.github.io
-katherine the 3rd
+remote_theme: pages-themes/tactile@v0.2.0
